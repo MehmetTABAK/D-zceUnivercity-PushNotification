@@ -1,0 +1,664 @@
+﻿@using PushNotificationDbEntities;
+@model List<Announcement>
+<!DOCTYPE html>
+<html lang="en">
+
+@{
+    Layout = "_UserLayout";
+}
+
+<head>
+    <meta charset="utf-8" />
+    <title>Kenburns, Amira - Creative Multipurpose Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="http://via.placeholder.com/30x30">
+
+    <!-- Template CSS Files -->
+    <link rel="stylesheet" type="text/css" href="/amira/amira-creative-multipurpose-template/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="/amira/amira-creative-multipurpose-template/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="/amira/amira-creative-multipurpose-template/css/magnific-popup.css" />
+    <link rel="stylesheet" type="text/css" href="/amira/amira-creative-multipurpose-template/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="/amira/amira-creative-multipurpose-template/css/skins/yellow.css" />
+
+    <!-- Revolution Slider CSS Files -->
+    <link rel="stylesheet" type="text/css" href="/amira/amira-creative-multipurpose-template/js/plugins/revolution/css/settings.css" />
+    <link rel="stylesheet" type="text/css" href="/amira/amira-creative-multipurpose-template/js/plugins/revolution/css/layers.css" />
+    <link rel="stylesheet" type="text/css" href="/amira/amira-creative-multipurpose-template/js/plugins/revolution/css/navigation.css" />
+
+    <!-- Template JS Files -->
+    <script src="/amira/amira-creative-multipurpose-template/js/modernizr.js"></script>
+
+</head>
+
+<body class="double-diagonal dark">
+    <!-- Page Wrapper Starts -->
+    <div class="wrapper">
+        <!-- Main Slider Section Starts -->
+        <section class="mainslider" id="mainslider">
+            <!-- Slider Hero Starts -->
+            <div class="rev_slider_wrapper fullwidthbanner-container dark-slider" data-alias="vimeo-hero" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+                <!-- START REVOLUTION SLIDER 5.0.7 fullwidth mode -->
+                <div id="rev_slider_kenburns" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.0.7">
+                    <ul>
+                        <!-- SLIDE  -->
+                        <li data-index="rs-18" data-transition="zoomin" data-slotamount="7" data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000" data-thumb="http://via.placeholder.com/100x50" data-rotate="0" data-saveperformance="off" data-title="Ken Burns" data-description="">
+                            <!-- MAIN IMAGE -->
+                            <img alt="" src="~/img/duzce_university_admin.png" data-bgposition="center center" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="180" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                            <!-- LAYERS -->
+                            <!-- LAYER NR. 1 -->
+                            <div class="tp-caption NotGeneric-Title   tp-resizeme rs-parallaxlevel-0" data-frames='[{"from":"x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1000,"split":"chars","splitdelay":0.05,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]' data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-fontsize="['70','70','70','45']" data-lineheight="['70','70','70','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; white-space: nowrap;">
+                                DÜZCE ÜNİVERSİTESİ
+                            </div>
+
+                            <!-- LAYER NR. 2 -->
+                            <div class="tp-caption NotGeneric-SubTitle   tp-resizeme rs-parallaxlevel-0" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['52','52','52','51']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; white-space: nowrap;">
+                                DEĞER ÜRETEN ÜNİVERSİTE
+                            </div>
+
+                            <!-- LAYER NR. 3 -->
+                            <div class="tp-caption NotGeneric-Icon   tp-resizeme rs-parallaxlevel-0" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-68','-68','-68','-68']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-style_hover="cursor:default;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;">
+                                <i class="pe-7s-refresh"></i>
+                            </div>
+                            <!-- LAYER NR. 4 -->
+                            <div class="tp-caption" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['150','150','150','150']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power1.easeInOut;" data-style_hover="c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);" data-transform_in="y:100px;sX:1;sY:1;opacity:0;s:2000;e:Power3.easeInOut;" data-transform_out="y:50px;opacity:0;s:1000;e:Power2.easeInOut;" data-start="750" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-responsive="off" style="z-index: 11; white-space: nowrap;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;"><a href="#about" class="custom-button slider-button scroll-to-target">Daha Dazla Bilgi Edinin</a></div>
+                        </li>
+                        <!-- SLIDE  -->
+                        <li data-index="rs-2" data-transition="zoomin" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="http://via.placeholder.com/100x50" data-rotate="0" data-fsmasterspeed="300" data-fsslotamount="7" data-saveperformance="off" data-title="Intro" data-description="">
+                            <!-- MAIN IMAGE -->
+                            <img alt="" src="~/img/Düzce Üniversitesi resim8.png" data-bgposition="center center" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="180" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                            <!-- LAYERS -->
+                            <!-- LAYER NR. 1 -->
+                            <div class="tp-caption NotGeneric-Title   tp-resizeme rs-parallaxlevel-0" data-frames='[{"from":"x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1000,"split":"chars","splitdelay":0.05,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]' data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-fontsize="['70','70','70','45']" data-lineheight="['70','70','70','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; white-space: nowrap;">
+                                AR-GE ÇALIŞMALARI
+                            </div>
+
+                            <!-- LAYER NR. 2 -->
+                            <div class="tp-caption NotGeneric-SubTitle   tp-resizeme rs-parallaxlevel-0" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['52','52','52','51']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; white-space: nowrap;">
+                                ARAŞTRMA GELİŞTİRME
+                            </div>
+
+                            <!-- LAYER NR. 3 -->
+                            <div class="tp-caption NotGeneric-Icon   tp-resizeme rs-parallaxlevel-0" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-68','-68','-68','-68']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-style_hover="cursor:default;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;">
+                                <i class="pe-7s-refresh"></i>
+                            </div>
+                            <!-- LAYER NR. 4 -->
+                            <div class="tp-caption" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['150','150','150','150']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power1.easeInOut;" data-style_hover="c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);" data-transform_in="y:100px;sX:1;sY:1;opacity:0;s:2000;e:Power3.easeInOut;" data-transform_out="y:50px;opacity:0;s:1000;e:Power2.easeInOut;" data-start="750" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-responsive="off" style="z-index: 11; white-space: nowrap;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;"><a href="#about" class="custom-button slider-button scroll-to-target">Daha Dazla Bilgi Edinin</a></div>
+                        </li>
+                        <!-- SLIDE  -->
+                        <li data-index="rs-3" data-transition="zoomin" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="http://via.placeholder.com/100x50" data-rotate="0" data-fsmasterspeed="300" data-fsslotamount="7" data-saveperformance="off" data-title="Intro" data-description="">
+                            <!-- MAIN IMAGE -->
+                            <img alt="" src="~/img/Düzce Üniversitesi resim9.png" data-bgposition="center center" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="180" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                            <!-- LAYERS -->
+                            <!-- LAYER NR. 1 -->
+                            <div class="tp-caption NotGeneric-Title   tp-resizeme rs-parallaxlevel-0" data-frames='[{"from":"x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1000,"split":"chars","splitdelay":0.05,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]' data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-fontsize="['70','70','70','45']" data-lineheight="['70','70','70','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; white-space: nowrap;">
+                                EN GÜZELİ
+                            </div>
+
+                            <!-- LAYER NR. 2 -->
+                            <div class="tp-caption NotGeneric-SubTitle   tp-resizeme rs-parallaxlevel-0" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['52','52','52','51']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; white-space: nowrap;">
+                                DOĞA İLE İÇ İÇE BİR KAMPÜS
+                            </div>
+
+                            <!-- LAYER NR. 3 -->
+                            <div class="tp-caption NotGeneric-Icon   tp-resizeme rs-parallaxlevel-0" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-68','-68','-68','-68']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-style_hover="cursor:default;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;">
+                                <i class="pe-7s-refresh"></i>
+                            </div>
+                            <!-- LAYER NR. 4 -->
+                            <div class="tp-caption" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['150','150','150','150']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power1.easeInOut;" data-style_hover="c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);" data-transform_in="y:100px;sX:1;sY:1;opacity:0;s:2000;e:Power3.easeInOut;" data-transform_out="y:50px;opacity:0;s:1000;e:Power2.easeInOut;" data-start="750" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-responsive="off" style="z-index: 11; white-space: nowrap;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;"><a href="#about" class="custom-button slider-button scroll-to-target">Daha Dazla Bilgi Edinin</a></div>
+                        </li>
+                    </ul>
+                    <div class="tp-static-layers"></div>
+                    <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
+                </div>
+            </div>
+            <!-- END REVOLUTION SLIDER -->
+            <!-- Slider Hero Ends -->
+        </section>
+        <!-- Main Slider Section Ends -->
+        <!-- About Section Starts -->
+        <section id="about" class="about">
+            <!-- Container Starts -->
+            <div class="container">
+                <!-- Main Heading Starts -->
+                <div class="text-center top-text">
+                    <h1><span>ÜNİVERSİTEMİZ</span> HAKKINDA</h1>
+                </div>
+                <!-- Main Heading Ends -->
+                <!-- Divider Starts -->
+                <div class="divider text-center">
+                    <span class="outer-line"></span>
+                    <span class="fa fa-user" aria-hidden="true"></span>
+                    <span class="outer-line"></span>
+                </div>
+                <!-- Divider Ends -->
+                <!-- About Content Starts -->
+                <div class="row about-content">
+                    <div class="col-sm-12 col-md-6 col-lg-6 about-left-side">
+                        <h3 class="title-about"><strong>DÜZCE</strong> ÜNİVERSİTESİ</h3>
+                        <hr>
+                        <p>Üniversitemiz, 17 Mart 2006 tarih 26111 sayılı Resmi Gazete'de yayınlanan 5467 sayılı Yasa ile Düzce Üniversitesi olarak kurulmuştur. 18 Mayıs 2007 tarihinde ilk Rektörümüz Prof. Dr. Funda SİVRİKAYA ŞERİFOĞLU atanmıştır. Kuruluşundan günümüze tüm paydaşları için "Değer Üretmeyi" benimsemiş olan Düzce... </p>
+                        <!-- Tabs Heading Starts -->
+                        <ul class="nav nav-tabs">
+                            <li class="active"><a data-toggle="tab" href="#menu1">Misyonumuz</a></li>
+                            <li><a data-toggle="tab" href="#menu2">Vizyonumuz</a></li>
+                        </ul>
+                        <!-- Tabs Heading Ends -->
+                        <!-- Tabs Content Starts -->
+                        <div class="tab-content">
+                            <div id="menu1" class="tab-pane fade in active">
+                                <p>Toplumsal ve sürdürülebilir kalkınma alanlarında disiplinlerarası proje işbirlikleriyle öncü, eğitim-öğretim ve bilimsel gelişme alanlarında ulusal ve uluslararası düzeyde tanınan, çağdaş, yenilikçi, güvenilir, saygın ve tercih edilen bir üniversite olmaktır.</p>
+                            </div>
+                            <div id="menu2" class="tab-pane fade">
+                                <p>Atatürk ilke ve devrimlerine bağlı, çağdaş ve demokratik bir üniversite olarak;  ülkenin gelişmesine ve çağdaş uygarlık seviyesine ulaşmasına katkı sağlayacak meslek insanları yetiştirmek, araştırma ve topluma hizmet alanlarında evrensel değerler üretmek, ulusal ve uluslararası düzeyde işbirlikleri kurmak, sürdürülebilir kalkınmaya öncülük etmektir.</p>
+                            </div>
+                        </div>
+                        <!-- Tabs Content Ends -->
+                        <a class="custom-button" href="@Url.Action("About", "Home")">DAHA FAZLASI İÇİN TIKLAYIN</a>
+                    </div>
+                    <div class="col-md-6 col-lg-6 about-right-side">
+                        <div>
+                            <img class="img-responsive hidden-xs" src="~/img/Düzce Üniversitesi resim3.png" alt="">
+                        </div>
+                    </div>
+                </div>
+                <!-- About Content Ends -->
+            </div>
+            <!-- Container Ends -->
+        </section>
+        <!-- About Section Ends -->
+        <!-- Video Section Starts -->
+        <section class="videopromotion">
+            <div class="section-overlay">
+                <!-- Container Starts -->
+                <div class="container">
+                    <!-- Main Heading Starts -->
+                    <div class="text-center top-text">
+                        <h1><span>TANITIM</span> VİDEOSU</h1>
+                        <h4>SİZİN İÇİN</h4>
+                    </div>
+                    <!-- Main Heading Ends -->
+                    <div class="video-content">
+                        <p class="text-center">Üniversitemiz hakkında kısa bir tanıtım videosudur.<br> Üniversitemizi daha önce hiç görmediğiniz gibi görün! </p>
+                        <!-- Video Play Starts -->
+                        <div class="magnific-popup-gallery">
+                            <div class="btn-wrapper text-center"><a class="image-wrap mfp-youtube" href="https://www.youtube.com/watch?v=5e4RjwJxrHc"></a></div>
+                        </div>
+                        <!-- Video Play Ends -->
+                    </div>
+                </div>
+                <!-- Container Ends -->
+            </div>
+        </section>
+        <!-- Video Section Ends -->
+        <!-- Services Section Starts -->
+        <section class="services">
+            <!-- Container Starts -->
+            <div class="container">
+                <!-- Main Heading Starts -->
+                <div class="text-center top-text">
+                    <h1><span>YÜKSEK</span> TERCİHLER</h1>
+                    <h4>EN ÇOK TERCİH ALAN BÖLÜMLERİMİZ</h4>
+                </div>
+                <!-- Main Heading Starts -->
+                <!-- Divider Starts -->
+                <div class="divider text-center">
+                    <span class="outer-line"></span>
+                    <span class="fa fa-cogs" aria-hidden="true"></span>
+                    <span class="outer-line"></span>
+                </div>
+                <!-- Divider Ends -->
+                <!-- Services Starts -->
+                <div class="row services-box">
+                    <!-- Service Item Starts -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 services-box-item">
+                        <!-- Service Item Cover Starts -->
+                        <span class="services-box-item-cover fa fa-leaf" data-headline="Tıp Fakültesi"></span>
+                        <!-- Service Item Cover Ends -->
+                        <!-- Service Item Content Starts -->
+                        <div class="services-box-item-content fa fa-leaf">
+                            <h2>Tıp Fakültesi</h2>
+                            <p>Tıp sektöründe gelişmiş makinalarımızın olması sebebiyle, sektörü yakından takip ederek ve yeni nesil ürünleri sürekli elimizde bulundurarak, öğrencilerimiz son derece güncel eğitimler almasını sağlamaktayız.</p>
+                        </div>
+                        <!-- Service Item Content Ends -->
+                    </div>
+                    <!-- Service Item Ends -->
+                    <!-- Service Item Starts -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 services-box-item">
+                        <!-- Service Item Cover Starts -->
+                        <span class="services-box-item-cover fa fa-anchor" data-headline="Mühendislik Fakültesi"></span>
+                        <!-- Service Item Cover Ends -->
+                        <!-- Service Item Content Starts -->
+                        <div class="services-box-item-content fa fa-anchor">
+                            <h2>Bilgisayar Mühendisliği</h2>
+                            <p>Özellikle yazılım alanındaki gelişmeleri takip ederek, öğrencilerimizi günümüz teknolojisine adapte olacak şekilde eğitimler vererek, son derece donanımlı bir birey olarak mezun etmeyi amaçlamaktayız.</p>
+                        </div>
+                        <!-- Service Item Content Ends -->
+                    </div>
+                    <!-- Service Item Ends -->
+                    <!-- Service Item Starts -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 services-box-item">
+                        <!-- Service Item Cover Starts -->
+                        <span class="services-box-item-cover fa fa-comments-o" data-headline="Mühendislik Fakültesi"></span>
+                        <!-- Service Item Cover Ends -->
+                        <!-- Service Item Content Starts -->
+                        <div class="services-box-item-content fa fa-comments-o">
+                            <h2>Elektrik-Elektronik Mühendisliği</h2>
+                            <p>Büyük eğitim kadromuzla beraber, hem yazılım hem de donanım alanında yeni nesil teknolojilerle eğitim vermekteyiz. Öğrencilerimize özellikle projelerinde gereken donanımları temin etmeleri için elimizden geleni yapmaktayız.</p>
+                        </div>
+                        <!-- Service Item Content Ends -->
+                    </div>
+                    <!-- Service Item Ends -->
+                    <!-- Service Item Starts -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 services-box-item">
+                        <!-- Service Item Cover Starts -->
+                        <span class="services-box-item-cover fa fa-cogs" data-headline="Mühendislik Fakültesi"></span>
+                        <!-- Service Item Cover Ends -->
+                        <div class="services-box-item-content fa fa-cogs">
+                            <h2>Makina Mühendisliği</h2>
+                            <p>Son derece yeni nesil makinalarla birlikte öğrencilerimize güncel eğitimler vermekteyiz. Sektörde çalışan kişileri dinlemeleri için konferanslar vermekteyiz. Bu sayede sektöre girmeden, bilgili kişilikler yetiştirmekteyiz.</p>
+                        </div>
+                    </div>
+                    <!-- Service Item Ends -->
+                    <!-- Service Item Starts -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 services-box-item">
+                        <!-- Service Item Cover Starts -->
+                        <span class="services-box-item-cover fa fa-support" data-headline="Eczacılık Fakültesi"></span>
+                        <!-- Service Item Cover Ends -->
+                        <!-- Service Item Content Starts -->
+                        <div class="services-box-item-content fa fa-support">
+                            <h2>Eczacılık Fakültesi</h2>
+                            <p>Büyük laborantımız sayesinde öğrencilerimiz tüm deneylerini gerekli güvenlik önlemlerini aldıkları taktirde burada yapabilmektelerdir. Derste gördüklerini deneyler sayesinde daha da anlayarak, öğrendiklerini kalıcı hale getirebilmektedirler.</p>
+                        </div>
+                        <!-- Service Item Content Ends -->
+                    </div>
+                    <!-- Service Item Ends -->
+                    <!-- Service Item Starts -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 services-box-item">
+                        <!-- Service Item Cover Starts -->
+                        <span class="services-box-item-cover fa fa-file-pdf-o" data-headline="İlahiyat Fakültesi"></span>
+                        <!-- Service Item Cover Ends -->
+                        <!-- Service Item Content Starts -->
+                        <div class="services-box-item-content fa fa-file-pdf-o">
+                            <h2>İlahiyat Fakültesi</h2>
+                            <p>Dinine sadık kadromuz sayesinde dini ile bütünleşmiş öğretmen ve imamlar yetiştirmekteyiz. Eğitimcilerimiz son derece güvenilir kişilerdir. Dini açıdan hiçbir sorunuz cevapsız kalmayacaktır.</p>
+                        </div>
+                        <!-- Service Item Content Ends -->
+                    </div>
+                    <!-- Service Item Ends -->
+
+                </div>
+                <!-- Services Ends -->
+            </div>
+        </section>
+        <!-- Services Section Ends -->
+        <!-- Testimonials Section Starts -->
+        <section class="testimonials">
+            <div class="section-overlay">
+                <!-- Container Starts -->
+                <div class="container">
+                    <!-- Main Heading Starts -->
+                    <div class="text-center top-text">
+                        <h1><span>DERECE YAPAN</span> ÖĞRENCİLERİMİZ</h1>
+                        <h4>ÜNİVERSİTEMİZ HAKKINDA YAPTIKLARI YORUMLAR</h4>
+                    </div>
+                    <!-- Main Heading Starts -->
+                    <!-- Blockquotes Starts -->
+                    <div id="quote-carousel" class="carousel slide" data-ride="carousel">
+                        <!-- Wrapper For Sliders Starts -->
+                        <!-- Indicators Starts -->
+                        <ol class="carousel-indicators">
+                            <li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#quote-carousel" data-slide-to="1"></li>
+                            <li data-target="#quote-carousel" data-slide-to="2"></li>
+                        </ol>
+                        <!-- Indicators Ends -->
+                        <div class="carousel-inner">
+                            <!-- Quote #1 Starts -->
+                            <div class="item active">
+                                <blockquote>
+                                    <img class="img-circle img-responsive" src="/img/bahar kaya.jpg" alt="client">
+                                    <p>Okulumuzun bize sağladığı bilgisayar laboratuvarları dersler için gayet yeterli. Ayrıca hocalarımızın dersleri yeni nesil teknolojilere göre işlemeleri sayesinde sektöre hazır bir birey olarak mezun oldum. Tüm üniversite personeline her şey için teşekkür ederim.</p>
+                                    <h5>Bahar KAYA</h5>
+                                    <h6>Mühendislik Fakültesi - Bilgisayar Mühendisliği</h6>
+                                </blockquote>
+                            </div>
+                            <!-- Quote #1 Ends -->
+                            <!-- Quote #2 Starts -->
+                            <div class="item">
+                                <blockquote>
+                                    <img class="img-circle img-responsive" src="/img//yeliz yelken.jpg" alt="client">
+                                    <p>Yeni nesil teknolojilere ayak uydurabildiğimiz için her şeyi görerek mezun oluyorum. Laboratuvar imkanlarıyla her şeyi deneyebilmemizi sağlamanız çok önemli bir şey. Hastane imkanı ile daha öğrenci iken hastalarla ilgilenebilmek ve ameliyata girebilmek inanılmaz bir şeydi. Her şey için teşekkürler.</p>
+                                    <h5>Yeliz YELKEN</h5>
+                                    <h6>Tıp Fakültesi</h6>
+                                </blockquote>
+                            </div>
+                            <!-- Quote #2 Ends -->
+                            <!-- Quote #3 Starts -->
+                            <div class="item">
+                                <blockquote>
+                                    <img class="img-circle img-responsive" src="/img/ahmet cantürk.jpg" alt="client">
+                                    <p>Çocuklar bizim geleceğimizdir ve bu yüzden de onlarla çok iyi ilgilenerek ve çok iyi eğitimler vererek yetiştirmeliyiz. Bize daha öğrencilik dönenimizde bile çocuklarla ilgilenme imkanı sağlayan, onlara yapacağımız her şey için yanımızda olan rektörümüze ve emeği geçen herkese çok teşekkür ederim.</p>
+                                    <h5>Ahmet CANTÜRK</h5>
+                                    <h6>Eğitim Fakültesi - Okul Öncesi Gelişim</h6>
+                                </blockquote>
+                            </div>
+                            <!-- Quote #3 Ends -->
+                        </div>
+                        <!-- Wrapper For Sliders Ends -->
+                    </div>
+                    <!-- Blockquotes Ends -->
+                </div>
+                <!-- Container Ends -->
+            </div>
+        </section>
+        <!-- Testimonials Section Ends -->
+        <!-- Portfolio Section Starts -->
+        <section class="portfolio">
+            <!-- Container Starts -->
+            <div class="container">
+                <!-- Main Heading Starts -->
+                <div class="text-center top-text">
+                    <h1><span>BAZI</span> DUYURULAR</h1>
+                    <h4>PAYLAŞILAN BAZI DUYURULARI OKUYUN</h4>
+                </div>
+                <!-- Main Heading Starts -->
+                <!-- Divider Starts -->
+                <div class="divider text-center">
+                    <span class="outer-line"></span>
+                    <span class="fa fa-image" aria-hidden="true"></span>
+                    <span class="outer-line"></span>
+                </div>
+                <!-- Divider Ends -->
+                <!-- Filter Wrapper Starts -->
+                <nav>
+                    <ul class="simplefilter nav nav-pills">
+                        <!-- Filter Wrapper Items Starts -->
+                        <li class="active" data-filter="all"><i class="fa fa-reorder"></i> DUYURULAR</li>
+                        <!-- Filter Wrapper Items Ends -->
+                    </ul>
+                </nav>
+                <!-- Filter Wrapper Ends -->
+                <div>
+                    <div class="filtr-container">
+                        <!-- Project Starts -->
+                        @{
+                            var duyuru1 = Model.FirstOrDefault(user => user.Id == 48); // 48 yerine istediğiniz ID'yi kullanın
+                        }
+                        @if (duyuru1 != null)
+                        {
+                            <div class="col-xs-12 col-sm-4 col-md-4 filtr-item" data-category="1">
+                                <div class="magnific-popup-gallery">
+                                    <!-- Thumbnail Starts -->
+                                    <figure class="thumbnail thumbnail__portfolio">
+                                        <a class="image-wrap" href="@duyuru1.PhotoUrl" data-gal="magnific-pop-up[image]" title="Image project"><img class="img-responsive" src="@duyuru1.PhotoUrl" alt="Image Project" /><span class="zoom-icon"></span></a>
+                                    </figure>
+                                    <!-- Thumbnail Ends -->
+                                    <!-- Caption Starts -->
+                                    <div class="caption">
+                                        <a class="title-link" href="image-project.html">
+                                            <h3>@duyuru1.Title</h3>
+                                        </a>
+                                        <p>@duyuru1.Body.Substring(0,100) ...</p>
+                                        <a class="custom-button" href="/Home/AnnouncementDetails/@duyuru1.Id">DEVAMINI OKU...</a>
+                                    </div>
+                                    <!-- Caption Ends -->
+                                </div>
+                            </div>
+                        }
+                        <!-- Project Ends -->
+                        <!-- Project Starts -->
+                        @{
+                            var duyuru2 = Model.FirstOrDefault(user => user.Id == 45); // 45 yerine istediğiniz ID'yi kullanın
+                        }
+                        @if (duyuru2 != null)
+                        {
+                            <div class="col-xs-12 col-sm-4 col-md-4 filtr-item" data-category="2">
+                                <div class="magnific-popup-gallery">
+                                    <!-- Thumbnail Starts -->
+                                    <figure class="thumbnail thumbnail__portfolio">
+                                        <a class="image-wrap" href="@duyuru2.PhotoUrl" data-gal="magnific-pop-up[image]" title="Image project"><img class="img-responsive" src="@duyuru2.PhotoUrl" alt="Image Project" /><span class="zoom-icon"></span></a>
+                                    </figure>
+                                    <!-- Thumbnail Ends -->
+                                    <!-- Caption Starts -->
+                                    <div class="caption">
+                                        <a class="title-link" href="image-project.html">
+                                            <h3>@duyuru2.Title</h3>
+                                        </a>
+                                        <p>@duyuru2.Body.Substring(0,100) ...</p>
+                                        <a class="custom-button" href="/Home/AnnouncementDetails/@duyuru2.Id">DEVAMINI OKU...</a>
+                                    </div>
+                                    <!-- Caption Ends -->
+                                </div>
+                            </div>
+                        }
+                        <!-- Project Ends -->
+                        <!-- Project Starts -->
+                        @{
+                            var duyuru3 = Model.FirstOrDefault(user => user.Id == 3); // 3 yerine istediğiniz ID'yi kullanın
+                        }
+                        @if (duyuru3 != null)
+                        {
+                            <div class="col-xs-12 col-sm-4 col-md-4 filtr-item" data-category="2">
+                                <div class="magnific-popup-gallery">
+                                    <!-- Thumbnail Starts -->
+                                    <figure class="thumbnail thumbnail__portfolio">
+                                        <a class="image-wrap" href="@duyuru3.PhotoUrl" data-gal="magnific-pop-up[image]" title="Image project"><img class="img-responsive" src="@duyuru3.PhotoUrl" alt="Image Project" /><span class="zoom-icon"></span></a>
+                                    </figure>
+                                    <!-- Thumbnail Ends -->
+                                    <!-- Caption Starts -->
+                                    <div class="caption">
+                                        <a class="title-link" href="image-project.html">
+                                            <h3>@duyuru3.Title</h3>
+                                        </a>
+                                        <p>@duyuru3.Body.Substring(0,100) ...</p>
+                                        <a class="custom-button" href="/Home/AnnouncementDetails/@duyuru3.Id">DEVAMINI OKU...</a>
+                                    </div>
+                                    <!-- Caption Ends -->
+                                </div>
+                            </div>
+                        }
+                        <!-- Project Ends -->
+                        <!-- Project Starts -->
+                        @{
+                            var duyuru4 = Model.FirstOrDefault(user => user.Id == 49); // 49 yerine istediğiniz ID'yi kullanın
+                        }
+                        @if (duyuru4 != null)
+                        {
+                            <div class="col-xs-12 col-sm-4 col-md-4 filtr-item" data-category="1">
+                                <div class="magnific-popup-gallery">
+                                    <!-- Thumbnail Starts -->
+                                    <figure class="thumbnail thumbnail__portfolio">
+                                        <a class="image-wrap" href="@duyuru4.PhotoUrl" data-gal="magnific-pop-up[image]" title="Image project"><img class="img-responsive" src="@duyuru4.PhotoUrl" alt="Image Project" /><span class="zoom-icon"></span></a>
+                                    </figure>
+                                    <!-- Thumbnail Ends -->
+                                    <!-- Caption Starts -->
+                                    <div class="caption">
+                                        <a class="title-link" href="image-project.html">
+                                            <h3>@duyuru4.Title</h3>
+                                        </a>
+                                        <p>@duyuru4.Body.Substring(0,100) ...</p>
+                                        <a class="custom-button" href="/Home/AnnouncementDetails/@duyuru4.Id">DEVAMINI OKU...</a>
+                                    </div>
+                                    <!-- Caption Ends -->
+                                </div>
+                            </div>
+                        }
+                        <!-- Project Ends -->
+                        <!-- Project Starts -->
+                        @{
+                            var duyuru5 = Model.FirstOrDefault(user => user.Id == 50); // 50 yerine istediğiniz ID'yi kullanın
+                        }
+                        @if (duyuru5 != null)
+                        {
+                            <div class="col-xs-12 col-sm-4 col-md-4 filtr-item" data-category="2">
+                                <div class="magnific-popup-gallery">
+                                    <!-- Thumbnail Starts -->
+                                    <figure class="thumbnail thumbnail__portfolio">
+                                        <a class="image-wrap" href="@duyuru5.PhotoUrl" data-gal="magnific-pop-up[image]" title="Image project"><img class="img-responsive" src="@duyuru5.PhotoUrl" alt="Image Project" /><span class="zoom-icon"></span></a>
+                                    </figure>
+                                    <!-- Thumbnail Ends -->
+                                    <!-- Caption Starts -->
+                                    <div class="caption">
+                                        <a class="title-link" href="image-project.html">
+                                            <h3>@duyuru5.Title</h3>
+                                        </a>
+                                        <p>@duyuru5.Body.Substring(0,100) ...</p>
+                                        <a class="custom-button" href="/Home/AnnouncementDetails/@duyuru5.Id">DEVAMINI OKU...</a>
+                                    </div>
+                                    <!-- Caption Ends -->
+                                </div>
+                            </div>
+                        }
+                        <!-- Project Ends -->
+                        <!-- Project Starts -->
+                        @{
+                            var duyuru6 = Model.FirstOrDefault(user => user.Id == 51); // 51 yerine istediğiniz ID'yi kullanın
+                        }
+                        @if (duyuru6 != null)
+                        {
+                            <div class="col-xs-12 col-sm-4 col-md-4 filtr-item" data-category="1">
+                                <div class="magnific-popup-gallery">
+                                    <!-- Thumbnail Starts -->
+                                    <figure class="thumbnail thumbnail__portfolio">
+                                        <a class="image-wrap" href="@duyuru6.PhotoUrl" data-gal="magnific-pop-up[image]" title="Image project"><img class="img-responsive" src="@duyuru6.PhotoUrl" alt="Image Project" /><span class="zoom-icon"></span></a>
+                                    </figure>
+                                    <!-- Thumbnail Ends -->
+                                    <!-- Caption Starts -->
+                                    <div class="caption">
+                                        <a class="title-link" href="image-project.html">
+                                            <h3>@duyuru6.Title</h3>
+                                        </a>
+                                        <p>@duyuru6.Body.Substring(0,100) ...</p>
+                                        <a class="custom-button" href="/Home/AnnouncementDetails/@duyuru6.Id">DEVAMINI OKU...</a>
+                                    </div>
+                                    <!-- Caption Ends -->
+                                </div>
+                            </div>
+                        }
+                        <!-- Project Ends -->
+                    </div>
+                </div>
+            </div>
+            <!-- Container Ends -->
+        </section>
+        <!-- Portfolio Section Ends -->
+        <!-- Facts Section Starts -->
+        <section class="facts">
+            <div class="section-overlay">
+                <!-- Container Starts -->
+                <div class="container">
+                    <!-- Main Heading Starts -->
+                    <div class="text-center top-text">
+                        <h1><span>BAZI</span> BİLGİLER</h1>
+                        <h4>ÜNİVERSİTEMİZ HAKKINDA BAZI BİLGİLER</h4>
+                    </div>
+                    <!-- Main Heading Starts -->
+                    <!-- Fact Badges Starts -->
+                    <div class="fact-badges">
+                        <div class="row">
+                            <!-- Fact Badge Item Starts -->
+                            <div class="col-md-3 col-sm-6">
+                                <i class="fa fa-briefcase"></i>
+                                <h2>
+                                    <span><strong class="badges-counter">13</strong></span>
+                                </h2>
+                                <h4>FAKÜLTE SAYISI</h4>
+                            </div>
+                            <!-- Fact Badge Item Ends -->
+                            <!-- Fact Badge Item Starts -->
+                            <div class="col-md-3 col-sm-6">
+                                <i class="fa fa-clock-o"></i>
+                                <h2>
+                                    <span><strong class="badges-counter">7</strong>/24</span>
+                                </h2>
+                                <h4>KAMPÜSTE GEÇİREBİLECEİNİZ ZAMAN</h4>
+                            </div>
+                            <!-- Fact Badge Item Ends -->
+                            <!-- Fact Badge Item Starts -->
+                            <div class="col-md-3 col-sm-6">
+                                <i class="fa fa-home"></i>
+                                <h2>
+                                    <span><strong class="badges-counter">5</strong>+</span>
+                                </h2>
+                                <h4>EĞLENCE YERİ</h4>
+                            </div>
+                            <!-- Fact Badge Item Ends -->
+                            <!-- Fact Badge Item Starts -->
+                            <div class="col-md-3 col-sm-6">
+                                <i class="fa fa-user"></i>
+                                <h2>
+                                    <span><strong class="badges-counter">40.000</strong>+</span>
+                                </h2>
+                                <h4>ÖĞRENCİ SAYISI</h4>
+                            </div>
+                            <!-- Fact Badge Item Ends -->
+                        </div>
+                    </div>
+                    <!-- Fact Badges Ends -->
+                </div>
+                <!-- Container Ends -->
+            </div>
+        </section>
+        <!-- facts Section Ends -->
+    </div>
+
+    <!-- Call To Action Section Starts -->
+    <section class="call-to-action">
+        <div class="section-overlay">
+            <!-- Container Starts -->
+            <div class="container">
+                <!-- Main Heading Starts -->
+                <div class="text-center top-text">
+                    <h1><span>KAYIT</span> OLUN</h1>
+                    <h4>KAYIT OLDUĞUNUZDA AŞAĞIDAKİLERDEN FAYDALANABİLİRSİNİZ</h4>
+                </div>
+                <!-- Main Heading Starts -->
+                <!-- Call To Action Starts -->
+                <div class="call-to-action-content">
+                    <ul>
+                        <li>Üniversitemizde Yapılan Değişikleri Takip Etme</li>
+                        <li>Yapılacak Aktivitelerden Haberdar Olma</li>
+                        <li>Yapılan Duyurulardan Anında Haberdar Olma</li>
+                        <li>!!! Duyurulardan Anında Haberdar Olmak İçin Mobil Cihazınız İle Kayıt Olmanız Gerekmektedir !!!</li>
+                    </ul>
+                    <a href="@Url.Action("Index", "UserRoleRelation")" class="custom-button">Hemen Kayıt Ol</a>
+                </div>
+                <!-- Call To Action Ends -->
+            </div>
+            <!-- Container Ends -->
+        </div>
+    </section>
+    <!-- facts Section Ends -->
+    <!-- Wrapper Ends -->
+    <!-- Template JS Files -->
+    <script src="/amira/amira-creative-multipurpose-template/js/jquery-2.2.4.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/jquery.easing.1.3.js"></script>
+   
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/jquery.bxslider.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/jquery.filterizr.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/jquery.magnific-popup.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/bootstrap.min.js"></script>
+    <!-- Revolution Slider Main JS Files -->
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/jquery.themepunch.tools.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
+
+    <!-- Revolution Slider Extensions -->
+
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/extensions/revolution.extension.video.min.js"></script>
+
+    <!-- Main JS Initialization File -->
+    <script src="/amira/amira-creative-multipurpose-template/js/custom.js"></script>
+
+</body>
+
+</html>

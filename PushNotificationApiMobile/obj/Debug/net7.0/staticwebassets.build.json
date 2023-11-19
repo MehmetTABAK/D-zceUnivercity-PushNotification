@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3QHiRi2Ish0WefbpgPUAVHQImu2QVyInt2LX/OBUKXE=",
+  "Source": "PushNotificationApiMobile",
+  "BasePath": "_content/PushNotificationApiMobile",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

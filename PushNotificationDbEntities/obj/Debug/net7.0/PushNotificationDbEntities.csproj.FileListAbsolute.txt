@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationDbEntities\bin\Debug\net7.0\PushNotificationDbEntities.deps.json
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationDbEntities\bin\Debug\net7.0\PushNotificationDbEntities.dll
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationDbEntities\bin\Debug\net7.0\PushNotificationDbEntities.pdb
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationDbEntities\obj\Debug\net7.0\PushNotificationDbEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationDbEntities\obj\Debug\net7.0\PushNotificationDbEntities.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationDbEntities\obj\Debug\net7.0\PushNotificationDbEntities.AssemblyInfo.cs
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationDbEntities\obj\Debug\net7.0\PushNotificationDbEntities.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationDbEntities\obj\Debug\net7.0\PushNotificationDbEntities.dll
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationDbEntities\obj\Debug\net7.0\refint\PushNotificationDbEntities.dll
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationDbEntities\obj\Debug\net7.0\PushNotificationDbEntities.pdb
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationDbEntities\obj\Debug\net7.0\ref\PushNotificationDbEntities.dll
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationDbEntities\bin\Debug\net7.0\PushNotificationDbEntities.runtimeconfig.json
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationDbEntities\obj\Debug\net7.0\PushNotificationDbEntities.genruntimeconfig.cache
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationDbEntities\bin\Debug\net7.0\PushNotificationEntites.dll
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationDbEntities\bin\Debug\net7.0\PushNotificationEntites.pdb
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationDbEntities\obj\Debug\net7.0\PushNotificationDbEntities.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationDbEntities\obj\Debug\net7.0\PushNotificationDbEntities.csproj.CopyComplete

@@ -1,0 +1,42 @@
+﻿@using PushNotificationDbEntities;
+@using PushNotificationDbEntities.DTOs;
+@using PushNotificationDbEntities.DTOs.User;
+@{
+    ViewBag.Title = "Kullanıcı Listesi";
+    Layout = "_AdminLayout";
+}
+@model List<GetUserDTO>
+
+<form class="form-group" method="post">
+    <div class="table-responsive">
+    <table class="table table-danger">
+        <tr>
+            <th>Id</th>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>Email</th>
+            <th>PhoneNumber</th>
+            <th>DeviceToken</th>
+            <th>Görev</th>
+            <th>Düzenle</th>
+            <th>Sil</th>
+        </tr>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.Id</td>
+                    <td>@user.FirstName</td>
+                    <td>@user.LastName</td>
+                    <td>@user.Email</td>
+                    <td>@user.PhoneNumber</td>
+                    <td>@user.DeviceToken</td>
+                    <td>@user.RoleNames</td>
+                    <th><a href="@Url.Action("Update","User",new{id=user.Id})">Düzenle</a></th>
+                    <th><a href="@Url.Action("Delete","User",new{id=user.Id})">Sil</a></th>
+                </tr>
+            }
+        </tbody>
+    </table>
+    </div>
+</form>

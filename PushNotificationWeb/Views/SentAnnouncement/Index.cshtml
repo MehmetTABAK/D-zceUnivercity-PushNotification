@@ -1,0 +1,38 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_AdminLayout";
+}
+
+@using PushNotificationDbEntities;
+@using PushNotificationDbEntities.DTOs;
+@using PushNotificationDbEntities.DTOs.Notification;
+
+@model List<GetAnnouncementDTO>
+
+
+<form class="form-group" method="post">
+    <br />
+    <div class="table-responsive">
+        <table class="table table-danger">
+            <tr>
+                <th>Id</th>
+                <th>Duyuru Gidenler</th>
+                <th>Duyuru Başlığı</th>
+                <th>Duyuru İçeriği</th>
+            </tr>
+            <tbody>
+                @foreach (var user in Model)
+                {
+                    <tr>
+                        <td>@user.Id</td>
+                        <td>@user.RoleNames</td>
+                        <td>@user.Title</td>
+                        <td>@user.Body</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</form>

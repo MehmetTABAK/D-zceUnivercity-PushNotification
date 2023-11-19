@@ -1,0 +1,109 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_UserLayout";
+}
+
+@using PushNotificationDbEntities
+@model List<Announcement>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Kenburns, Amira - Creative Multipurpose Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="http://via.placeholder.com/30x30">
+
+    <!-- Template CSS Files -->
+    <link rel="stylesheet" type="text/css" href="/amira/amira-creative-multipurpose-template/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="/amira/amira-creative-multipurpose-template/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="/amira/amira-creative-multipurpose-template/css/magnific-popup.css" />
+    <link rel="stylesheet" type="text/css" href="/amira/amira-creative-multipurpose-template/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="/amira/amira-creative-multipurpose-template/css/skins/yellow.css" />
+
+    <!-- Revolution Slider CSS Files -->
+    <link rel="stylesheet" type="text/css" href="/amira/amira-creative-multipurpose-template/js/plugins/revolution/css/settings.css" />
+    <link rel="stylesheet" type="text/css" href="/amira/amira-creative-multipurpose-template/js/plugins/revolution/css/layers.css" />
+    <link rel="stylesheet" type="text/css" href="/amira/amira-creative-multipurpose-template/js/plugins/revolution/css/navigation.css" />
+
+    <!-- Template JS Files -->
+    <script src="/amira/amira-creative-multipurpose-template/js/modernizr.js"></script>
+
+</head>
+
+<body class="double-diagonal dark">
+    <!-- Page Wrapper Starts -->
+    <div class="wrapper">
+        <!-- About Section Starts -->
+        <section id="about" class="about">
+            <!-- Container Starts -->
+            <div class="container">
+                <!-- Main Heading Starts -->
+                <div class="text-center top-text">
+                    <h1><span>DUYURU</span> DETAYLARI</h1>
+                </div>
+                <!-- Main Heading Ends -->
+                <!-- Divider Starts -->
+                <div class="divider text-center">
+                    <span class="outer-line"></span>
+                    <span class="fa fa-user" aria-hidden="true"></span>
+                    <span class="outer-line"></span>
+                </div>
+                <!-- Divider Ends -->
+                <!-- About Content Starts -->
+                <div class="row about-content">
+                    @foreach (var anno in Model)
+                    {
+                    <div class="col-sm-12 col-md-6 col-lg-6 about-left-side">
+                        <h3 class="title-about">@anno.Title</h3>
+                        <hr>
+                        <p>@anno.Body</p>
+                    </div>
+                    <div class="col-md-6 col-lg-6 about-right-side">
+                        <div>
+                            <img class="img-responsive hidden-xs" src="@anno.PhotoUrl" alt="">
+                        </div>
+                    </div>
+                    }
+                </div>
+                <!-- About Content Ends -->
+            </div>
+            <!-- Container Ends -->
+        </section>
+        <!-- About Section Ends -->
+    </div>
+    <!-- Wrapper Ends -->
+    <!-- Template JS Files -->
+    <script src="/amira/amira-creative-multipurpose-template/js/jquery-2.2.4.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/jquery.easing.1.3.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/bootstrap.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/jquery.bxslider.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/jquery.filterizr.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/jquery.magnific-popup.min.js"></script>
+
+    <!-- Revolution Slider Main JS Files -->
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/jquery.themepunch.tools.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
+
+    <!-- Revolution Slider Extensions -->
+
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+    <script src="/amira/amira-creative-multipurpose-template/js/plugins/revolution/js/extensions/revolution.extension.video.min.js"></script>
+
+    <!-- Main JS Initialization File -->
+    <script src="/amira/amira-creative-multipurpose-template/js/custom.js"></script>
+
+</body>
+
+</html>

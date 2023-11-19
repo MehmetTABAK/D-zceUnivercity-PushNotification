@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationEntites\bin\Debug\net7.0\PushNotificationEntites.deps.json
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationEntites\bin\Debug\net7.0\PushNotificationEntites.dll
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationEntites\bin\Debug\net7.0\PushNotificationEntites.pdb
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationEntites\obj\Debug\net7.0\PushNotificationEntites.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationEntites\obj\Debug\net7.0\PushNotificationEntites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationEntites\obj\Debug\net7.0\PushNotificationEntites.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationEntites\obj\Debug\net7.0\PushNotificationEntites.AssemblyInfo.cs
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationEntites\obj\Debug\net7.0\PushNotificationEntites.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationEntites\obj\Debug\net7.0\PushNotificationEntites.dll
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationEntites\obj\Debug\net7.0\refint\PushNotificationEntites.dll
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationEntites\obj\Debug\net7.0\PushNotificationEntites.pdb
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationEntites\obj\Debug\net7.0\ref\PushNotificationEntites.dll
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationEntites\bin\Debug\net7.0\PushNotificationEntites.runtimeconfig.json
+C:\Users\PC\Desktop\PushNotificationApi\PushNotificationEntites\obj\Debug\net7.0\PushNotificationEntites.genruntimeconfig.cache

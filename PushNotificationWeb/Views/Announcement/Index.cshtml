@@ -1,0 +1,52 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_AdminLayout";
+}
+
+@using PushNotificationDbEntities;
+@model List<Announcement>
+
+
+<form class="form-group" method="post">
+
+    <div style="position: absolute; top: 90px; right: 20px;" class="btn btn-outline-info">
+        <a href="@Url.Action("AddNotification","Announcement")">Duyuru Paylaş</a>
+    </div>
+
+    <div style="position: absolute; top: 100px; right: 190px;">
+        <a href="@Url.Action("SendNotify","DirectAnnouncement")">Paylaşmadan Gönder</a>
+    </div>
+
+    <br /><br /><br />
+
+    <div class="table-responsive">
+        <table class="table table-danger">
+            <tr>
+                <th>Id</th>
+                <th>Duyuru Başlığı</th>
+                <th>Duyuru İçeriği</th>
+                <th>Duyuru Fotoğrafı</th>
+                <th>Düzenle</th>
+                <th>Sil</th>
+                <th>Gönder</th>
+            </tr>
+            <tbody>
+                @foreach (var user in Model)
+                {
+                    <tr>
+                        <td>@user.Id</td>
+                        <td>@user.Title</td>
+                        <td>@user.Body</td>
+                        <td>@user.PhotoUrl</td>
+                        <th><a href="@Url.Action("Update","Announcement",new{id=user.Id})">Düzenle</a></th>
+                        <th><a href="@Url.Action("Delete","Announcement",new{id=user.Id})">Sil</a></th>
+                        <th><a href="@Url.Action("ShareToGroup","Announcement",new{id=user.Id})">Gönder</a></th>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+</form>

@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Kullanıcı Listesi";
+}
+
+@using PushNotificationDbEntities;
+@model List<User>
+
+
+<select name="@ViewData["Name"]">
+    @foreach (var item in Model)
+    {
+        <option value="@item.Email"> @item.Email </option>
+    }
+</select>
