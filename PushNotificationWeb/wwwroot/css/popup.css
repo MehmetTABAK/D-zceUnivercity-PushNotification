@@ -1,0 +1,17 @@
+﻿.popup {
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+
+@media (max-width: 768px) {
+    .popup {
+        max-height: 60vh;
+        /* Add additional styles for smaller screens */
+    }
+
+    .w3layouts_more-buttn a {
+        font-size: 0.8em;
+        /* Adjust other styles as needed */
+    }
+}

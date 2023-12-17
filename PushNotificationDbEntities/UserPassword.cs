@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace PushNotificationDbEntities
 {
-    public class UserPassword: Entity
+    public class UserPassword: Entity //Entity sınıfından türettiğimiz için Entity sınıfı içerisindeki tüm propertyler bu sınıfa da dahildir.
     {
-        public string Password { get; set; }
-        public int UserId { get; set; }
-        public virtual User User { get; set; }
+        public string Password { get; set; } //"Password" adında string bir property tanımlanıyor.Kullanıcının şifresini temsil eder.
+        public int UserId { get; set; } //"UserId" adında int bir property tanımlanıyor.Kullanıcının kimliğini temsil eder ve bu kimlik, UserPassword sınıfının User özelliği ile ilişkilidir.
+        public virtual User User { get; set; } //"User" adında bir User property tanımlanıyor.Bu özellik, UserPassword sınıfının ilişkilendiği kullanıcıyı temsil eder.
     }
 }

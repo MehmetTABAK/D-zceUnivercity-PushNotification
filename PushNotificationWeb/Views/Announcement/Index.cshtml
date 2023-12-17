@@ -11,12 +11,12 @@
 
 <form class="form-group" method="post">
 
-    <div style="position: absolute; top: 90px; right: 20px;" class="btn btn-outline-info">
-        <a href="@Url.Action("AddNotification","Announcement")">Duyuru Paylaş</a>
+    <div style="position: absolute; top: 90px; right: 20px;" class="btn btn-info">
+        <a style="color:white" href="@Url.Action("AddNotification", "Announcement")">Duyuru Paylaş</a>
     </div>
 
-    <div style="position: absolute; top: 100px; right: 190px;">
-        <a href="@Url.Action("SendNotify","DirectAnnouncement")">Paylaşmadan Gönder</a>
+    <div style="position: absolute; top: 90px; right: 170px;" class="btn btn-secondary">
+        <a style="color:white" href="@Url.Action("SendNotify","DirectAnnouncement")">Paylaşmadan Gönder</a>
     </div>
 
     <br /><br /><br />
@@ -38,11 +38,20 @@
                     <tr>
                         <td>@user.Id</td>
                         <td>@user.Title</td>
-                        <td>@user.Body</td>
+                        <td>
+                            @if (user.Body.Length > 50)
+                            {
+                                <p>@user.Body.Substring(0, 50) ...</p>
+                            }
+                            else
+                            {
+                                <p>@user.Body</p>
+                            }
+                        </td>
                         <td>@user.PhotoUrl</td>
-                        <th><a href="@Url.Action("Update","Announcement",new{id=user.Id})">Düzenle</a></th>
-                        <th><a href="@Url.Action("Delete","Announcement",new{id=user.Id})">Sil</a></th>
-                        <th><a href="@Url.Action("ShareToGroup","Announcement",new{id=user.Id})">Gönder</a></th>
+                        <th><a class="btn btn-primary" href="@Url.Action("Update","Announcement",new{id=user.Id})">Düzenle</a></th>
+                        <th><a class="btn btn-warning" href="@Url.Action("Delete","Announcement",new{id=user.Id})">Sil</a></th>
+                        <th><a class="btn btn-danger" href="@Url.Action("ShareToGroup","Announcement",new{id=user.Id})">Gönder</a></th>
                     </tr>
                 }
             </tbody>

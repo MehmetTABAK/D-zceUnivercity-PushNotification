@@ -7,9 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\SignIn\css\style.css" />
-    <None Include="wwwroot\SignIn\images\b1.jpg" />
-    <None Include="wwwroot\SignIn\index.html" />
+    <None Include="wwwroot\img\b1.jpg" />
   </ItemGroup>
 
   <ItemGroup>
@@ -25,6 +23,13 @@
     <ProjectReference Include="..\PushNotificationDataAccess\PushNotificationDataAccess.csproj" />
     <ProjectReference Include="..\PushNotificationDbEntities\PushNotificationDbEntities.csproj" />
     <ProjectReference Include="..\PushNotificationEntites\PushNotificationEntites.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="wwwroot\img\Duzce_University_Admin.PNG">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>

@@ -8,11 +8,12 @@ using System.Threading.Tasks;
 namespace PushNotificationDbEntities
 {
     //Cross Table
-    public class SentAnnouncement: Entity
+    //Cross Table iki veya daha fazla tablonun birbirleriyle ilişkilendirildiği ve genellikle çoktan çok ilişkileri temsil ettiği bir tür veritabanı tablosudur.Biz burada Roles ve Announcements tablolarına çoktan çok ilişki kurduruyoruz.
+    public class SentAnnouncement: Entity //Entity sınıfından türettiğimiz için Entity sınıfı içerisindeki tüm propertyler bu sınıfa da dahildir.
     {
-        public int AnnouncementId { get; set; }
-        public int RoleId { get; set; }
-        public virtual Role Role{ get; set; }
-        public virtual Announcement Announcement { get; set; }
+        public int AnnouncementId { get; set; } //"AnnouncementId" adında int bir property tanımlanıyoruz.Gönderilen bildirimin ilişkilendiği bildirimin kimliğini temsil eder.
+        public int RoleId { get; set; } //"RoleId" adında int bir property tanımlanıyoruz.Gönderilen bildirimin ilişkilendiği rolün kimliğini temsil eder.
+        public virtual Role Role{ get; set; } //"Role" adında bir Role property tanımlanıyoruz.Bu özellik, gönderilen bildirimin ilişkilendiği rolü temsil eder.
+        public virtual Announcement Announcement { get; set; } //"Announcement" adında bir Announcement property tanımlanıyoruz.Bu özellik, gönderilen bildirimin ilişkilendiği bildirimi temsil eder.
     }
 }

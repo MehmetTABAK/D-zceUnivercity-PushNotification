@@ -11,8 +11,8 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
 
-    <script src="~/Bagimlilik/jquery-3.4.1.min.js"></script>
-    <link href="~/Bagimlilik/bootstrap.min.css" rel="stylesheet">
+    <script src="~/js/jquery-3.4.1.min.js"></script>
+    <link href="~/css/bbootstrap.min.css" rel="stylesheet">
     <link href="~/lib/slick/slick.css" rel="stylesheet">
     <link href="~/lib/slick/slick-theme.css" rel="stylesheet">
 
@@ -21,6 +21,21 @@
     <link href="~/css/site.css" rel="stylesheet">
     <link href="~/css/bar.css" />
     <link href="~/css/style.css" rel="stylesheet">
+    <link href="~/css/popup.css" rel="stylesheet" type="text/css">
+
+    <title>Düzce Üniversitesi Giriş</title>
+    <!-- Meta tags -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Gaze Sign up & login Form Responsive Widget, Audio and Video players, Login Form Web Template, Flat Pricing Tables, Flat Drop-Downs, Sign-Up Web Templates, Flat Web Templates, Login Sign-up Responsive Web Template, Smartphone Compatible Web Template, Free Web Designs for Nokia, Samsung, LG, Sony Ericsson, Motorola Web Design" />
+    <script>
+        addEventListener("load", function () { setTimeout(hideURLbar, 0); }, false); function hideURLbar() { window.scrollTo(0, 1); }
+    </script>
+    <!-- Meta tags -->
+    <!--stylesheets-->
+    <link href="~/css/loginstyle.css" rel="stylesheet" />
+    <!--//style sheet end here-->
+    <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet">
 </head>
 
 <body>
@@ -44,25 +59,6 @@
         </div>
     </div>
     <!-- Top Bar Start -->
-    <!-- Brand Start -->
-    @* <div class="brand">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-3 col-md-4">
-                    <div class="b-logo">
-                        <a href="@Url.Action("Index", "Home")">
-                            <img src="~/img/Düzce_University_logo.png" alt="Logo">
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-4">
-                    <div class="b-ads">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> *@
-    <!-- Brand End -->
     <!-- Nav Bar Start -->
     <div class="nav-bar">
         <div class="container">
@@ -73,15 +69,11 @@
                 </button>
                 <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                     <div class="navbar-nav mr-auto">
-                        @* <a href="@Url.ActionLink("Index","Home")" class="nav-item nav-link active">Ana Sayfa</a>
+                        <a href="@Url.ActionLink("Index","Home")" class="nav-item nav-link active">Ana Sayfa</a>
                         <a href="@Url.ActionLink("Announcement","Home")" class="nav-item nav-link">Duyurular</a>
                         <a href="@Url.ActionLink("About","Home")" class="nav-item nav-link">Hakkımızda</a>
-                        <a href="@Url.ActionLink("Contact","Home")" class="nav-item nav-link">İletişim</a> *@
+                        <a href="@Url.ActionLink("Contact","Home")" class="nav-item nav-link">İletişim</a>
                         <a href="@Url.ActionLink("Index","UserRoleRelation")" class="nav-item nav-link">Giriş</a>
-                        @* <a href="@Url.ActionLink("Index","User")" class="nav-item nav-link">Kullanıcılar</a>
-                        <a href="@Url.ActionLink("Index","Announcement")" class="nav-item nav-link">Duyurular</a>
-                        <a href="@Url.ActionLink("Index","SentAnnouncement")" class="nav-item nav-link">Gönderilmiş Duyurular</a>
-                        <a href="@Url.ActionLink("SendEmail","DirectAnnouncement")" class="nav-item nav-link">Email Gönder</a> *@
                     </div>
                     <div class="social ml-auto">
                         <a href=""><i class="fab fa-twitter"></i></a>
@@ -99,31 +91,11 @@
         @RenderBody()
     </div>
     
-    <!-- Main News End-->
-    <!-- Footer Start -->
-    <!-- Footer End -->
-    <!-- Footer Menu Start -->
-    @* <div class="footer-menu">
-        <div class="container">
-            <div class="f-menu">
-                <a href="">Terms of use</a>
-                <a href="">Privacy policy</a>
-                <a href="">Cookies</a>
-                <a href="">Accessibility help</a>
-                <a href="">Advertise with us</a>
-                <a href="">Contact us</a>
-            </div>
-        </div>
-    </div> *@
-    <!-- Footer Menu End -->
-    <!-- Footer Bottom Start -->
-    <!-- Footer Bottom End -->
-    <!-- Back to Top -->
     <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
 
     <!-- JavaScript Libraries -->
 
-    <script src="~/Bagimlilik/bootstrap.bundle.min.js"></script>
+    <script src="~/js/bootstrap.bundle.min.js"></script>
     <script src="~/lib/easing/easing.min.js"></script>
     <script src="~/lib/slick/slick.min.js"></script>
     <script src="~/js/main.js"></script>

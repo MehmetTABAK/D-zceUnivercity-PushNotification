@@ -5,884 +5,124 @@
       "PackagePath": "staticwebassets\\PushNotificationWeb.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\Bagimlilik\\all.min.css",
-      "PackagePath": "staticwebassets\\Bagimlilik\\all.min.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\Bagimlilik\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\Bagimlilik\\bootstrap.bundle.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\Bagimlilik\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\Bagimlilik\\bootstrap.min.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\Bagimlilik\\css.css",
-      "PackagePath": "staticwebassets\\Bagimlilik\\css.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\Bagimlilik\\jquery-3.4.1.min.js",
-      "PackagePath": "staticwebassets\\Bagimlilik\\jquery-3.4.1.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\SignIn\\css\\style.css",
-      "PackagePath": "staticwebassets\\SignIn\\css\\style.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\SignIn\\images\\Duzce_University_Admin.PNG",
-      "PackagePath": "staticwebassets\\SignIn\\images\\Duzce_University_Admin.PNG"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\SignIn\\images\\Duzce_University_Background.jpg",
-      "PackagePath": "staticwebassets\\SignIn\\images\\Duzce_University_Background.jpg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\SignIn\\images\\Duzce_university.jpg",
-      "PackagePath": "staticwebassets\\SignIn\\images\\Duzce_university.jpg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\SignIn\\images\\b1.jpg",
-      "PackagePath": "staticwebassets\\SignIn\\images\\b1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\SignIn\\index.html",
-      "PackagePath": "staticwebassets\\SignIn\\index.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\404.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\404.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\503.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\503.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\about.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\about.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\blog-grid-no-sidebar.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\blog-grid-no-sidebar.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\blog-left-sidebar.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\blog-left-sidebar.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\blog-post.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\blog-post.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\blog-right-sidebar.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\blog-right-sidebar.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\coming-soon.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\coming-soon.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\contact.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\contact.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\css\\bootstrap.min.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\css\\font-awesome.min.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\css\\font-awesome.min.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\css\\jquery.bxslider.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\css\\jquery.bxslider.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\css\\magnific-popup.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\css\\magnific-popup.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\css\\skins\\blue.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\css\\skins\\blue.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\css\\skins\\blueviolet.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\css\\skins\\blueviolet.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\css\\skins\\goldenrod.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\css\\skins\\goldenrod.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\css\\skins\\green.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\css\\skins\\green.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\css\\skins\\magenta.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\css\\skins\\magenta.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\css\\skins\\orange.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\css\\skins\\orange.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\css\\skins\\purple.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\css\\skins\\purple.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\css\\skins\\red.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\css\\skins\\red.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\css\\skins\\yellow.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\css\\skins\\yellow.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\css\\skins\\yellowgreen.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\css\\skins\\yellowgreen.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\css\\style.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\css\\style.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\faq.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\faq.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\fonts\\FontAwesome.otf",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\fonts\\FontAwesome.otf"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\fonts\\fontawesome-webfont.eot",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\fonts\\fontawesome-webfont.eot"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\fonts\\fontawesome-webfont.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\fonts\\fontawesome-webfont.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\fonts\\fontawesome-webfont.ttf",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\fonts\\fontawesome-webfont.ttf"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\fonts\\fontawesome-webfont.woff",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\fonts\\fontawesome-webfont.woff"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\fonts\\fontawesome-webfont.woff2",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\fonts\\fontawesome-webfont.woff2"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\gallery-project.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\gallery-project.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\image-project.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\image-project.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\arab_tile.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\arab_tile.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\az_subtle.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\az_subtle.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\checkered_pattern.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\checkered_pattern.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\circles.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\circles.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\connect.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\connect.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\cutcube.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\cutcube.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\dimension.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\dimension.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\elastoplast.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\elastoplast.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\fake_luxury.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\fake_luxury.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\gplaypattern.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\gplaypattern.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\hexellence.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\hexellence.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\old_wall.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\old_wall.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\p1.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\p1.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\p2.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\p2.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\p4.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\p4.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\p5.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\p5.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\p6.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\p6.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\pineapplecut.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\pineapplecut.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\plaid.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\plaid.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\psychedelic_pattern.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\psychedelic_pattern.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\tapestry_pattern.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\tapestry_pattern.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\washi.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\backgrounds\\washi.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\markers\\blue.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\markers\\blue.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\markers\\blueviolet.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\markers\\blueviolet.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\markers\\goldenrod.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\markers\\goldenrod.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\markers\\green.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\markers\\green.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\markers\\magenta.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\markers\\magenta.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\markers\\orange.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\markers\\orange.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\markers\\purple.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\markers\\purple.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\markers\\red.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\markers\\red.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\markers\\yellow.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\markers\\yellow.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\markers\\yellowgreen.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\markers\\yellowgreen.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-blue-dark.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-blue-dark.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-blue-light.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-blue-light.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-blueviolet-dark.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-blueviolet-dark.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-blueviolet-light.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-blueviolet-light.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-goldenrod-dark.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-goldenrod-dark.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-goldenrod-light.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-goldenrod-light.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-green-dark.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-green-dark.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-green-light.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-green-light.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-magenta-dark.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-magenta-dark.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-magenta-light.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-magenta-light.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-orange-dark.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-orange-dark.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-orange-light.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-orange-light.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-purple-dark.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-purple-dark.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-purple-light.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-purple-light.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-red-dark.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-red-dark.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-red-light.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-red-light.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-yellow-dark.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-yellow-dark.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-yellow-light.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-yellow-light.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-yellowgreen-dark.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-yellowgreen-dark.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-yellowgreen-light.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\preloaders\\preloader-yellowgreen-light.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\projects\\icons\\external-icon.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\projects\\icons\\external-icon.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\projects\\icons\\gallery-icon.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\projects\\icons\\gallery-icon.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\projects\\icons\\video-icon.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\projects\\icons\\video-icon.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\projects\\icons\\zoom-icon.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\projects\\icons\\zoom-icon.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\revolution-slider\\product\\ihpone_dark.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\revolution-slider\\product\\ihpone_dark.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\revolution-slider\\product\\ipad_dark.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\revolution-slider\\product\\ipad_dark.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\img\\revolution-slider\\product\\macbookpro.png",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\img\\revolution-slider\\product\\macbookpro.png"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\index-carousel-classic.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\index-carousel-classic.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\index-content-tabs.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\index-content-tabs.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\index-creative-frontpage.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\index-creative-frontpage.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\index-kenburns.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\index-kenburns.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\index-product.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\index-product.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\index-rotating-words.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\index-rotating-words.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\index-scroll-effects.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\index-scroll-effects.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\index-slideshow.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\index-slideshow.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\index-static.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\index-static.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\index-travel.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\index-travel.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\index-video-slider.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\index-video-slider.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\index-vimeo.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\index-vimeo.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\custom.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\custom.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\jquery-2.2.4.min.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\jquery-2.2.4.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\modernizr.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\modernizr.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\bootstrap.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\jquery.bxslider.min.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\jquery.bxslider.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\jquery.countdown.min.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\jquery.countdown.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\jquery.easing.1.3.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\jquery.easing.1.3.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\jquery.filterizr.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\jquery.filterizr.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\jquery.magnific-popup.min.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\jquery.magnific-popup.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\jquery.plugin.min.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\jquery.plugin.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\_DS_Store",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\closedhand.cur",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\closedhand.cur"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\index.php",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\index.php"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\layers.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\layers.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\ares.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\ares.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\custom.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\custom.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\dione.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\dione.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\erinyen.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\erinyen.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\gyges.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\gyges.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\hades.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\hades.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\hebe.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\hebe.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\hephaistos.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\hephaistos.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\hermes.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\hermes.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\hesperiden.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\hesperiden.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\metis.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\metis.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\persephone.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\persephone.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\uranus.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\uranus.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\zeus.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation-skins\\zeus.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\navigation.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\openhand.cur",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\openhand.cur"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\settings-source.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\settings-source.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\settings.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\settings.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\tp-color-picker.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\css\\tp-color-picker.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\font-awesome\\css\\font-awesome.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\font-awesome\\css\\font-awesome.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\font-awesome\\css\\font-awesome.min.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\font-awesome\\css\\font-awesome.min.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\FontAwesome.otf",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\FontAwesome.otf"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\font-awesome\\index.php",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\font-awesome\\index.php"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\index.php",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\index.php"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\css\\helper.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\css\\helper.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\css\\index.php",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\css\\index.php"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.eot",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.eot"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.ttf",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.ttf"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.woff",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.woff"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\index.php",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\index.php"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\index.php",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\index.php"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\revicons\\index.php",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\revicons\\index.php"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\revicons\\revicons.eot",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\revicons\\revicons.eot"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\revicons\\revicons.svg",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\revicons\\revicons.svg"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\revicons\\revicons.ttf",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\revicons\\revicons.ttf"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\revicons\\revicons.woff",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\fonts\\revicons\\revicons.woff"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\index.php",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\index.php"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.carousel.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.video.min.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.video.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\index.php",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\index.php"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.actions.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.actions.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.carousel.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.carousel.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.kenburn.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.kenburn.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.layeranimation.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.layeranimation.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.migration.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.migration.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.navigation.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.navigation.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.parallax.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.parallax.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.slideanims.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.slideanims.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.video.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.video.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\index.php",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\index.php"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\jquery.themepunch.enablelog.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\jquery.themepunch.enablelog.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\jquery.themepunch.revolution.min.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\jquery.themepunch.revolution.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\jquery.themepunch.tools.min.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\jquery.themepunch.tools.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\source\\index.php",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\source\\index.php"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\source\\jquery.themepunch.enablelog.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\source\\jquery.themepunch.enablelog.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\source\\jquery.themepunch.revolution.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\source\\jquery.themepunch.revolution.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\source\\jquery.themepunch.tools.min.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\source\\jquery.themepunch.tools.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\source\\tp-color-picker.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\source\\tp-color-picker.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\tp-color-picker.min.js",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\js\\plugins\\revolution\\js\\tp-color-picker.min.js"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\login.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\login.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\php\\process-form.php",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\php\\process-form.php"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\portfolio-2-columns.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\portfolio-2-columns.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\portfolio-3-columns.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\portfolio-3-columns.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\portfolio-4-columns.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\portfolio-4-columns.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\pricing.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\pricing.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\register.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\register.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\shopping-cart.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\shopping-cart.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\shopping-checkout.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\shopping-checkout.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\slider-project.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\slider-project.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\terms-of-services.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\terms-of-services.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\video-project.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\video-project.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\vimeo-project.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\vimeo-project.html"
-    },
-    {
-      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\amira\\amira-creative-multipurpose-template\\youtube-project.html",
-      "PackagePath": "staticwebassets\\amira\\amira-creative-multipurpose-template\\youtube-project.html"
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
     },
     {
       "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\bar.css",
       "PackagePath": "staticwebassets\\css\\bar.css"
     },
     {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\bbootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bbootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\css.css",
+      "PackagePath": "staticwebassets\\css\\css.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\jquery.bxslider.css",
+      "PackagePath": "staticwebassets\\css\\jquery.bxslider.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\loginstyle.css",
+      "PackagePath": "staticwebassets\\css\\loginstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\popup.css",
+      "PackagePath": "staticwebassets\\css\\popup.css"
+    },
+    {
       "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\skins\\blue.css",
+      "PackagePath": "staticwebassets\\css\\skins\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\skins\\blueviolet.css",
+      "PackagePath": "staticwebassets\\css\\skins\\blueviolet.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\skins\\goldenrod.css",
+      "PackagePath": "staticwebassets\\css\\skins\\goldenrod.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\skins\\green.css",
+      "PackagePath": "staticwebassets\\css\\skins\\green.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\skins\\magenta.css",
+      "PackagePath": "staticwebassets\\css\\skins\\magenta.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\skins\\orange.css",
+      "PackagePath": "staticwebassets\\css\\skins\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\skins\\purple.css",
+      "PackagePath": "staticwebassets\\css\\skins\\purple.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\skins\\red.css",
+      "PackagePath": "staticwebassets\\css\\skins\\red.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\skins\\yellow.css",
+      "PackagePath": "staticwebassets\\css\\skins\\yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\skins\\yellowgreen.css",
+      "PackagePath": "staticwebassets\\css\\skins\\yellowgreen.css"
     },
     {
       "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\css\\userstyle.css",
+      "PackagePath": "staticwebassets\\css\\userstyle.css"
+    },
+    {
       "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
     },
     {
       "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\Announcement\\ardek.png",
@@ -911,6 +151,14 @@
     {
       "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\Duzce_University_Admin.PNG",
       "PackagePath": "staticwebassets\\img\\Duzce_University_Admin.PNG"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\Duzce_University_Background.jpg",
+      "PackagePath": "staticwebassets\\img\\Duzce_University_Background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\Duzce_university.jpg",
+      "PackagePath": "staticwebassets\\img\\Duzce_university.jpg"
     },
     {
       "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\Düzce Üniversitesi Hatırası.png",
@@ -965,6 +213,98 @@
       "PackagePath": "staticwebassets\\img\\ahmet cantürk.jpg"
     },
     {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\b1.jpg",
+      "PackagePath": "staticwebassets\\img\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\arab_tile.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\arab_tile.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\az_subtle.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\az_subtle.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\checkered_pattern.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\checkered_pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\circles.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\circles.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\connect.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\connect.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\cutcube.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\cutcube.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\dimension.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\dimension.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\elastoplast.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\elastoplast.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\fake_luxury.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\fake_luxury.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\gplaypattern.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\gplaypattern.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\hexellence.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\hexellence.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\old_wall.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\old_wall.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\p1.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\p1.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\p2.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\p2.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\p4.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\p4.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\p5.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\p5.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\p6.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\p6.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\pineapplecut.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\pineapplecut.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\plaid.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\plaid.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\psychedelic_pattern.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\psychedelic_pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\tapestry_pattern.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\tapestry_pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\backgrounds\\washi.png",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\washi.png"
+    },
+    {
       "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\bahar kaya.jpg",
       "PackagePath": "staticwebassets\\img\\bahar kaya.jpg"
     },
@@ -973,12 +313,516 @@
       "PackagePath": "staticwebassets\\img\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\markers\\blue.png",
+      "PackagePath": "staticwebassets\\img\\markers\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\markers\\blueviolet.png",
+      "PackagePath": "staticwebassets\\img\\markers\\blueviolet.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\markers\\goldenrod.png",
+      "PackagePath": "staticwebassets\\img\\markers\\goldenrod.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\markers\\green.png",
+      "PackagePath": "staticwebassets\\img\\markers\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\markers\\magenta.png",
+      "PackagePath": "staticwebassets\\img\\markers\\magenta.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\markers\\orange.png",
+      "PackagePath": "staticwebassets\\img\\markers\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\markers\\purple.png",
+      "PackagePath": "staticwebassets\\img\\markers\\purple.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\markers\\red.png",
+      "PackagePath": "staticwebassets\\img\\markers\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\markers\\yellow.png",
+      "PackagePath": "staticwebassets\\img\\markers\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\markers\\yellowgreen.png",
+      "PackagePath": "staticwebassets\\img\\markers\\yellowgreen.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-blue-dark.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-blue-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-blue-light.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-blue-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-blueviolet-dark.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-blueviolet-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-blueviolet-light.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-blueviolet-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-goldenrod-dark.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-goldenrod-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-goldenrod-light.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-goldenrod-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-green-dark.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-green-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-green-light.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-green-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-magenta-dark.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-magenta-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-magenta-light.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-magenta-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-orange-dark.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-orange-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-orange-light.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-orange-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-purple-dark.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-purple-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-purple-light.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-purple-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-red-dark.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-red-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-red-light.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-red-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-yellow-dark.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-yellow-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-yellow-light.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-yellow-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-yellowgreen-dark.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-yellowgreen-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\preloaders\\preloader-yellowgreen-light.svg",
+      "PackagePath": "staticwebassets\\img\\preloaders\\preloader-yellowgreen-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\projects\\icons\\external-icon.png",
+      "PackagePath": "staticwebassets\\img\\projects\\icons\\external-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\projects\\icons\\gallery-icon.png",
+      "PackagePath": "staticwebassets\\img\\projects\\icons\\gallery-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\projects\\icons\\video-icon.png",
+      "PackagePath": "staticwebassets\\img\\projects\\icons\\video-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\projects\\icons\\zoom-icon.png",
+      "PackagePath": "staticwebassets\\img\\projects\\icons\\zoom-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\revolution-slider\\product\\ihpone_dark.png",
+      "PackagePath": "staticwebassets\\img\\revolution-slider\\product\\ihpone_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\revolution-slider\\product\\ipad_dark.png",
+      "PackagePath": "staticwebassets\\img\\revolution-slider\\product\\ipad_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\revolution-slider\\product\\macbookpro.png",
+      "PackagePath": "staticwebassets\\img\\revolution-slider\\product\\macbookpro.png"
+    },
+    {
       "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\img\\yeliz yelken.jpg",
       "PackagePath": "staticwebassets\\img\\yeliz yelken.jpg"
     },
     {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
       "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\jquery.bxslider.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.bxslider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\jquery.filterizr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.filterizr.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\jquery.plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\_DS_Store",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\closedhand.cur",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\closedhand.cur"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\index.php",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\layers.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\layers.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\navigation-skins\\ares.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\navigation-skins\\ares.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\navigation-skins\\custom.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\navigation-skins\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\navigation-skins\\dione.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\navigation-skins\\dione.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\navigation-skins\\erinyen.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\navigation-skins\\erinyen.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\navigation-skins\\gyges.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\navigation-skins\\gyges.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\navigation-skins\\hades.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\navigation-skins\\hades.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\navigation-skins\\hebe.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\navigation-skins\\hebe.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\navigation-skins\\hephaistos.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\navigation-skins\\hephaistos.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\navigation-skins\\hermes.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\navigation-skins\\hermes.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\navigation-skins\\hesperiden.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\navigation-skins\\hesperiden.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\navigation-skins\\metis.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\navigation-skins\\metis.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\navigation-skins\\persephone.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\navigation-skins\\persephone.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\navigation-skins\\uranus.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\navigation-skins\\uranus.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\navigation-skins\\zeus.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\navigation-skins\\zeus.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\navigation.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\navigation.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\openhand.cur",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\openhand.cur"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\settings-source.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\settings-source.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\settings.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\settings.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\css\\tp-color-picker.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\css\\tp-color-picker.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\font-awesome\\index.php",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\font-awesome\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\index.php",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\css\\helper.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\css\\helper.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\css\\index.php",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\css\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\index.php",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\index.php",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\pe-icon-7-stroke\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\revicons\\index.php",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\revicons\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\revicons\\revicons.eot",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\revicons\\revicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\revicons\\revicons.svg",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\revicons\\revicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\revicons\\revicons.ttf",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\revicons\\revicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\fonts\\revicons\\revicons.woff",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\fonts\\revicons\\revicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\index.php",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\source\\index.php",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\source\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.actions.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.actions.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.carousel.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.kenburn.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.kenburn.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.layeranimation.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.layeranimation.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.migration.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.migration.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.navigation.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.navigation.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.parallax.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.parallax.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.slideanims.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.slideanims.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.video.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\extensions\\source\\revolution.extension.video.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\index.php",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\jquery.themepunch.enablelog.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\jquery.themepunch.enablelog.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\source\\index.php",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\source\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\source\\jquery.themepunch.enablelog.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\source\\jquery.themepunch.enablelog.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\source\\jquery.themepunch.revolution.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\source\\jquery.themepunch.revolution.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\source\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\source\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\source\\tp-color-picker.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\source\\tp-color-picker.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\plugins\\revolution\\js\\tp-color-picker.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\revolution\\js\\tp-color-picker.min.js"
     },
     {
       "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\js\\site.js",
@@ -1275,6 +1119,10 @@
     {
       "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\lib\\slick\\slick.scss",
       "PackagePath": "staticwebassets\\lib\\slick\\slick.scss"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\PushNotificationApi\\PushNotificationWeb\\wwwroot\\php\\process-form.php",
+      "PackagePath": "staticwebassets\\php\\process-form.php"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.PushNotificationWeb.Microsoft.AspNetCore.StaticWebAssets.props",
